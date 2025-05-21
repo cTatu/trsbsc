@@ -7,9 +7,9 @@ name: Dart
 
 on:
   push:
-    branches: [ "main" ]
+    branches: [ "cTatu-sudo-build-patch" ]
   pull_request:
-    branches: [ "main" ]
+    branches: [ "cTatu-sudo-build-patch" ]
 
 jobs:
   build:
