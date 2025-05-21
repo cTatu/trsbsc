@@ -1,0 +1,14 @@
+@import "./bulma.min.css";
+@import "./all.min.css";
+
+html, body {
+  display: flex;
+  flex-flow: column;
+  height: 100%;
+  font-family: sans-serif;
+}
+
+body {
+  padding-left: 10%;
+  padding-top: 5%;
+}
