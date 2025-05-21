@@ -1,0 +1,20 @@
+name: sample_bulma
+description: Bulma CSS
+version: 1.0.0
+publish_to: none
+
+environment:
+  sdk: ^3.7.2
+
+dependencies:
+  jaspr: ^0.12.0
+  jaspr_riverpod: ^0.3.11
+
+dev_dependencies:
+  build_runner: ^2.4.0
+  build_web_compilers: ^4.0.0
+  jaspr_builder: ^0.12.0
+  lints: ^2.1.0
+
+jaspr:
+  mode: client
